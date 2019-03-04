@@ -1,0 +1,78 @@
+[panda]
+_id: 55
+birthday: 2008/6/21
+birthplace: 1
+children: unknown
+en.name: Ruru
+en.nicknames: Dig-a-bear
+en.othernames: Lulu
+gender: f
+jp.name: ルル
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 56
+location.1: 1, 2008/6/21
+location.2: 27, 2017/11/21
+photo.1: https://www.instagram.com/p/BaSZZkFjK1_/media/?size=m
+photo.1.author: _rifa_p
+photo.1.link: https://www.instagram.com/_rifa_p/
+photo.1.tags: dig, profile
+photo.2: https://www.instagram.com/p/BZlXepKFkIE/media/?size=m
+photo.2.author: takashi_8310iyo
+photo.2.link: https://www.instagram.com/takashi_8310iyo/
+photo.2.tags: blink, smile
+photo.3: https://www.instagram.com/p/BdBe7I1DCmG/media/?size=m
+photo.3.author: _rifa_p
+photo.3.link: https://www.instagram.com/_rifa_p/
+photo.3.tags: bamboo
+photo.4: https://www.instagram.com/p/BdtQ_vFDef0/media/?size=m
+photo.4.author: _rifa_p
+photo.4.link: https://www.instagram.com/_rifa_p/
+photo.4.tags: tail
+photo.5: https://www.instagram.com/p/Bhd2Yvrlnsw/media/?size=m
+photo.5.author: hanamaru_redpanda
+photo.5.link: https://www.instagram.com/hanamaru_redpanda/
+photo.5.tags: home
+photo.6: https://www.instagram.com/p/BnVVVkoF5zl/media/?size=m
+photo.6.author: wumpwoast
+photo.6.link: https://www.instagram.com/wumpwoast/
+photo.6.tags: smile
+photo.7: https://www.instagram.com/p/Bn7XKS1lHRt/media/?size=m
+photo.7.author: firefoxpanda88
+photo.7.link: https://www.instagram.com/firefoxpanda88/
+photo.7.tags: laying down
+photo.8: https://www.instagram.com/p/BoL1ll4lRDF/media/?size=m
+photo.8.author: redpanda_nippon_takashi
+photo.8.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.9: https://www.instagram.com/p/BpOJOHnFQ7J/media/?size=m
+photo.9.author: perie1027vivi
+photo.9.link: https://www.instagram.com/perie1027vivi/
+photo.9.tags: dish
+photo.10: https://www.instagram.com/p/BqoJPpZFDOP/media/?size=m
+photo.10.author: na.mo.pan
+photo.10.link: https://www.instagram.com/na.mo.pan/
+photo.11: https://www.instagram.com/p/BrGx0nEnfM1/media/?size=m
+photo.11.author: yakko____
+photo.11.link: https://www.instagram.com/yakko____/
+photo.12: https://www.instagram.com/p/BZGL8o9lLat/media/?size=m
+photo.12.author: hanamaru_redpanda
+photo.12.link: https://www.instagram.com/hanamaru_redpanda/
+photo.12.tags: sleeping
+photo.13: https://www.instagram.com/p/BsSJf5LlRw-/media/?size=m
+photo.13.author: perie1027vivi
+photo.13.link: https://www.instagram.com/perie1027vivi/
+photo.13.tags: tail
+photo.14: https://www.instagram.com/p/BtHxoYeFWBu/media/?size=m
+photo.14.author: firefoxpanda88
+photo.14.link: https://www.instagram.com/firefoxpanda88/
+photo.15: https://www.instagram.com/p/Btlb3j2l4Gh/media/?size=m
+photo.15.author: firefoxpanda88
+photo.15.link: https://www.instagram.com/firefoxpanda88/
+photo.15.tags: nose
+photo.16: https://www.instagram.com/p/BtyDEATFi_0/media/?size=m
+photo.16.author: yuka0714_0307
+photo.16.link: https://www.instagram.com/yuka0714_0307/
+photo.16.tags: mofumofu
+species: 2
+zoo: 27

@@ -1,0 +1,52 @@
+[panda]
+_id: 325
+birthday: 2018/6/21
+birthplace: 67
+children: none
+en.name: Zeya
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ゼヤ
+jp.nicknames: none
+jp.oldnames: none
+jp.othernames: none
+language.order: en, jp
+litter: 324
+photo.1: https://www.instagram.com/p/BmtnengF8yI/media/?size=m
+photo.1.author: woodlandparkzoo
+photo.1.link: https://www.instagram.com/woodlandparkzoo/
+photo.1.tags: baby
+photo.2: https://www.instagram.com/p/BqLohSKi68c/media/?size=m
+photo.2.author: eluniversocom
+photo.2.link: https://www.instagram.com/eluniversocom/
+photo.2.tags: profile, tree
+photo.3: https://www.instagram.com/p/BsYQR-4FV9n/media/?size=m
+photo.3.author: carsontheredpanda
+photo.3.link: https://www.instagram.com/carsontheredpanda/
+photo.4: https://www.instagram.com/p/BtBgr_HFnFD/media/?size=m
+photo.4.author: carsontheredpanda
+photo.4.link: https://www.instagram.com/carsontheredpanda/
+photo.4.tags: mofumofu, techitechi, tongue, tree
+photo.5: https://www.instagram.com/p/BtJYuvLF0oc/media/?size=m
+photo.5.author: carsontheredpanda
+photo.5.link: https://www.instagram.com/carsontheredpanda/
+photo.5.tags: smile, tongue, tree
+photo.6: https://www.instagram.com/p/BtQ38jhFnhw/media/?size=m
+photo.6.author: carsontheredpanda
+photo.6.link: https://www.instagram.com/carsontheredpanda/
+photo.6.tags: blink, tree
+photo.7: https://www.instagram.com/p/Bt_Z1A2FCPa/media/?size=m
+photo.7.author: carsontheredpanda
+photo.7.link: https://www.instagram.com/carsontheredpanda/
+photo.7.tags: snow, tree
+photo.8: https://www.instagram.com/p/BuHDx0Ul-jH/media/?size=m
+photo.8.author: carsontheredpanda
+photo.8.link: https://www.instagram.com/carsontheredpanda/
+photo.8.tags: tongue, tree
+photo.9: https://www.instagram.com/p/BuMTRncl6NE/media/?size=m
+photo.9.author: carsontheredpanda
+photo.9.link: https://www.instagram.com/carsontheredpanda/
+photo.9.tags: tongue, tree
+species: 2
+zoo: 67

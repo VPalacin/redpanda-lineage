@@ -1,0 +1,34 @@
+[panda]
+_id: 141
+birthday: 2014/6/26
+birthplace: 35
+children: unknown
+en.name: Kinako
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: きなこ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 110
+location.1: 35, 2014/6/26
+location.2: 15, 2017/5/29
+photo.1: https://www.instagram.com/p/BqgjZXclPYI/media/?size=m
+photo.1.author: ifumoto88
+photo.1.link: https://www.instagram.com/ifumoto88/
+photo.1.tags: laying down
+photo.2: https://www.instagram.com/p/BqjG3tblG_V/media/?size=m
+photo.2.author: ifumoto88
+photo.2.link: https://www.instagram.com/ifumoto88/
+photo.2.tags: bridge
+photo.3: https://www.instagram.com/p/BqjW9ppFbdO/media/?size=m
+photo.3.author: panda.daisuki
+photo.3.link: https://www.instagram.com/panda.daisuki/
+photo.3.tags: bridge, laying down
+photo.4: https://www.instagram.com/p/BqlxURxlESj/media/?size=m
+photo.4.author: ifumoto88
+photo.4.link: https://www.instagram.com/ifumoto88/
+photo.4.tags: nose, profile
+species: 2
+zoo: 15

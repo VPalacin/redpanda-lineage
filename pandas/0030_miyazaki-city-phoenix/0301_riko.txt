@@ -1,0 +1,30 @@
+[panda]
+_id: 301
+birthday: 2013/6/25
+birthplace: 6
+children: unknown
+en.name: Riko
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: リコ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: unknown
+location.1: 6, 2013/6/25
+location.2: 30, 2015/1/15
+photo.1: https://www.instagram.com/p/BTDwxn5gi70/media/?size=m
+photo.1.author: monmon_redpanda
+photo.1.link: https://www.instagram.com/monmon_redpanda/
+photo.1.tags: bamboo, profile, muzzle, techitechi, tongue
+photo.2: https://www.instagram.com/p/BsG-en1F72s/media/?size=m
+photo.2.author: monmon_redpanda
+photo.2.link: https://www.instagram.com/monmon_redpanda/
+photo.2.tags: bamboo, smile
+photo.3: https://www.instagram.com/p/BsKVDQgF305/media/?size=m
+photo.3.author: re_ichimaru
+photo.3.link: https://www.instagram.com/re_ichimaru/
+photo.3.tags: smile, techitechi
+species: 2
+zoo: 30

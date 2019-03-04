@@ -1,0 +1,110 @@
+[panda]
+_id: 305
+birthday: 2018/8/5
+birthplace: 29
+children: none
+en.name: Aka-chan
+en.nicknames: none
+en.othernames: Aka-Chan, Akachan, Babu
+gender: m
+jp.name: 赤ちゃん
+jp.nicknames: 四男, バブ
+jp.othernames: none
+language.order: jp, en
+litter: none
+photo.1: https://www.instagram.com/p/BqMBnbxFUL1/media/?size=m
+photo.1.author: adventureworld_official
+photo.1.link: https://www.instagram.com/adventureworld_official/
+photo.1.tags: baby, muzzle
+photo.2: https://www.instagram.com/p/BqTcR8zlMx8/media/?size=m
+photo.2.author: monmon_redpanda
+photo.2.link: https://www.instagram.com/monmon_redpanda/
+photo.2.tags: baby, muzzle
+photo.3: https://www.instagram.com/p/BqloCMBFp_S/media/?size=m
+photo.3.author: framereim
+photo.3.link: https://www.instagram.com/framereim/
+photo.3.tags: baby, muzzle
+photo.4: https://www.instagram.com/p/Bqs15vhFiqO/media/?size=m
+photo.4.author: framereim
+photo.4.link: https://www.instagram.com/framereim/
+photo.4.tags: baby, muzzle, techitechi
+photo.5: https://www.instagram.com/p/BqmIbuylGru/media/?size=m
+photo.5.author: adventureworld_official
+photo.5.link: https://www.instagram.com/adventureworld_official/
+photo.5.tags: baby, muzzle
+photo.6: https://www.instagram.com/p/BrbUnR_F8Zw/media/?size=m
+photo.6.author: kipekaila
+photo.6.link: https://www.instagram.com/kipekaila/
+photo.6.tags: baby, muzzle
+photo.7: https://www.instagram.com/p/Bref9ipFjaW/media/?size=m
+photo.7.author: craig_craig_craig
+photo.7.link: https://www.instagram.com/craig_craig_craig/
+photo.7.tags: baby, keeper, muzzle, standing
+photo.8: https://www.instagram.com/p/Brdw59plRwg/media/?size=m
+photo.8.author: craig_craig_craig
+photo.8.link: https://www.instagram.com/craig_craig_craig/
+photo.8.tags: baby, muzzle, standing
+photo.9: https://www.instagram.com/p/BrkPEVBFMO6/media/?size=m
+photo.9.author: mifko55
+photo.9.link: https://www.instagram.com/mifko55/
+photo.9.tags: baby, muzzle, standing, tree
+photo.10: https://www.instagram.com/p/BruWHLYlTg4/media/?size=m
+photo.10.author: yakko____
+photo.10.link: https://www.instagram.com/yakko____/
+photo.10.tags: baby, pull-up, tail
+photo.11: https://www.instagram.com/p/Brga5kHlGzy/media/?size=m
+photo.11.author: _natsu_panda_
+photo.11.link: https://www.instagram.com/_natsu_panda_/
+photo.11.tags: muzzle
+photo.12: https://www.instagram.com/p/Brxi1CAlMob/media/?size=m
+photo.12.author: craig_craig_craig
+photo.12.link: https://www.instagram.com/craig_craig_craig/
+photo.12.tags: dish, keeper, lunch time, standing
+photo.13: https://www.instagram.com/p/Br5XY4kl5TK/media/?size=m
+photo.13.author: nakacchi_desu
+photo.13.link: https://www.instagram.com/nakacchi_desu/
+photo.13.tags: keeper, muzzle, standing
+photo.14: https://www.instagram.com/p/Br9qWkxlwtW/media/?size=m
+photo.14.author: falcon_tenor
+photo.14.link: https://www.instagram.com/falcon_tenor/
+photo.14.tags: muzzle
+photo.15: https://www.instagram.com/p/BsJuZDpg2YJ/media/?size=m
+photo.15.author: nakacchi_desu
+photo.15.link: https://www.instagram.com/nakacchi_desu/
+photo.15.tags: mofumofu, paws, tail
+photo.16: https://www.instagram.com/p/Bsc6F98lYac/media/?size=m
+photo.16.author: falcon_tenor
+photo.16.link: https://www.instagram.com/falcon_tenor/
+photo.16.tags: mofumofu
+photo.17: https://www.instagram.com/p/Bs2wcxTFNs0/media/?size=m
+photo.17.author: daniele.tokyo
+photo.17.link: https://www.instagram.com/daniele.tokyo/
+photo.17.tags: keeper, nose, paws
+photo.18: https://www.instagram.com/p/Bs7Pmyxlyqj/media/?size=m
+photo.18.author: adventureworld_official
+photo.18.link: https://www.instagram.com/adventureworld_official/
+photo.18.tags: mofumofu, tail, tree, upside-down
+photo.19: https://www.instagram.com/p/BtDi0-5FaFc/media/?size=m
+photo.19.author: nakageo
+photo.19.link: https://www.instagram.com/nakageo/
+photo.19.tags: paws, tree
+photo.20: https://www.instagram.com/p/BtQud0qgHMh/media/?size=m
+photo.20.author: pon.bird
+photo.20.link: https://www.instagram.com/pon.bird/
+photo.20.tags: laying down, profile, tree
+photo.21: https://www.instagram.com/p/BtfnUdLFEH8/media/?size=m
+photo.21.author: kipekaila
+photo.21.link: https://www.instagram.com/kipekaila/
+photo.21.tags: baby, mofumofu
+photo.22: https://www.instagram.com/p/BtitTfLF0J0/media/?size=m
+photo.22.author: mifko55
+photo.22.link: https://www.instagram.com/mifko55/
+photo.23: https://www.instagram.com/p/BtvL0vWlJsq/media/?size=m
+photo.23.author: nakageo
+photo.23.link: https://www.instagram.com/nakageo/
+photo.23.tags: mofumofu, surprise
+photo.24: https://www.instagram.com/p/BuJcaMig90I/media/?size=m
+photo.24.author: animal0720
+photo.24.link: https://www.instagram.com/animal0720/
+species: 2
+zoo: 29

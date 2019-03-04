@@ -1,0 +1,41 @@
+[panda]
+_id: 351
+birthday: 1997/6/18
+birthplace: 10
+children: unknown
+en.name: Kiki
+en.nicknames: none
+gender: m
+jp.name: キキ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: 352
+location.1: 10, 1997/6/18
+location.2: 74, 1999/4/21
+photo.1: https://www.instagram.com/p/BpZYmR_FhXG/media/?size=m
+photo.1.author: masa_polarbear
+photo.1.link: https://www.instagram.com/masa_polarbear/
+photo.1.tags: old, sleeping
+photo.2: https://www.instagram.com/p/BqlDFF9FIoM/media/?size=m
+photo.2.author: kipekaila
+photo.2.link: https://www.instagram.com/kipekaila/
+photo.2.tags: old, sleeping
+photo.3: https://www.instagram.com/p/BYEnF2RhFBW/media/?size=m
+photo.3.author: miis_98
+photo.3.link: https://www.instagram.com/miis_98/
+photo.3.tags: apple time, keeper, old
+photo.4: https://www.instagram.com/p/BnkF9SdFunD/media/?size=m
+photo.4.author: rie_panda55
+photo.4.link: https://www.instagram.com/rie_panda55/
+photo.4.tags: old, profile, sleeping
+photo.5: https://www.instagram.com/p/BsXO5p5l50g/media/?size=m
+photo.5.author: l_ma_photos
+photo.5.link: https://www.instagram.com/l_ma_photos/
+photo.5.tags: old, sleeping
+photo.6: https://www.instagram.com/p/BuJJyjHlOlc/media/?size=m
+photo.6.author: yuka0714_0307
+photo.6.link: https://www.instagram.com/yuka0714_0307/
+photo.6.tags: apple time, dish, lunch time, old, smile
+species: 2
+zoo: 74

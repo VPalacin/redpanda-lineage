@@ -1,0 +1,22 @@
+[panda]
+_id: 416
+birthday: 2016/6/24
+birthplace: 87
+children: none
+en.name: Waveland
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ウェーヴランド
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 417
+location.1: 87, 2016/6/24
+location.2: 83, 2018/8/1
+photo.1: https://www.instagram.com/p/BpHwUxRFZc8/media/?size=m
+photo.1.author: worldthathesees
+photo.1.link: https://www.instagram.com/worldthathesees/
+photo.1.tags: profile, tongue
+species: 2
+zoo: 83

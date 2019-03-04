@@ -1,0 +1,25 @@
+[panda]
+_id: 452
+birthday: 2003/7/15
+birthplace: 6
+children: none
+en.name: Yuuki
+en.nicknames: none
+en.othernames: none
+es.name: Yuuki
+es.nicknames: none
+es.othernames: none
+gender: m
+jp.name: ユーキ
+jp.nicknames: none
+jp.othernames: 優貴
+language.order: es, en, jp
+litter: 202
+location.1: 6, 2003/7/15
+location.2: 98, 2005/7/8
+photo.1: https://www.instagram.com/p/BGiwPZylEcH/media/?size=m
+photo.1.author: everywhere.inbetween17
+photo.1.link: https://www.instagram.com/everywhere.inbetween17/
+photo.1.tags: home, profile
+species: 2
+zoo: 98

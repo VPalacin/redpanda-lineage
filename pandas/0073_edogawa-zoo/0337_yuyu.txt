@@ -1,0 +1,49 @@
+[panda]
+_id: 337
+birthday: 2002/6/21
+birthplace: 60
+children: 290, 155
+en.name: Yu-Yu
+en.nicknames: none
+en.othernames: Yuyu, Flying
+gender: f
+jp.name: 遊遊
+jp.nicknames: none
+jp.othernames: ユウユウ
+language.order: jp, en
+litter: unknown
+location.1: 60, 2002/6/21
+location.2: 73, 2003/6/11
+photo.1: https://www.instagram.com/p/Bm5YIFSlzs9/media/?size=m
+photo.1.author: panda.daisuki
+photo.1.link: https://www.instagram.com/panda.daisuki/
+photo.1.tags: smile, tail
+photo.2: https://www.instagram.com/p/Bnp9z1LFJvk/media/?size=m
+photo.2.author: na.mo.pan
+photo.2.link: https://www.instagram.com/na.mo.pan/
+photo.2.tags: smile, tree
+photo.3: https://www.instagram.com/p/BoBsOifl5Uf/media/?size=m
+photo.3.author: ifumoto88
+photo.3.link: https://www.instagram.com/ifumoto88/
+photo.3.tags: tail
+photo.4: https://www.instagram.com/p/BqCiqFxFDjU/media/?size=m
+photo.4.author: ifumoto88
+photo.4.link: https://www.instagram.com/ifumoto88/
+photo.5: https://www.instagram.com/p/BrIP2BNFZzm/media/?size=m
+photo.5.author: ifumoto88
+photo.5.link: https://www.instagram.com/ifumoto88/
+photo.5.tags: tree
+photo.6: https://www.instagram.com/p/BsSXXF7h1kG/media/?size=m
+photo.6.author: na.mo.pan
+photo.6.link: https://www.instagram.com/na.mo.pan/
+photo.6.tags: smile
+photo.7: https://www.instagram.com/p/Bskd8XZFvbC/media/?size=m
+photo.7.author: panda.daisuki
+photo.7.link: https://www.instagram.com/panda.daisuki/
+photo.7.tags: profile
+photo.8: https://www.instagram.com/p/Bs8ZbBJllUS/media/?size=m
+photo.8.author: nakacchi_desu
+photo.8.link: https://www.instagram.com/nakacchi_desu/
+photo.8.tags: tree
+species: 2
+zoo: 73

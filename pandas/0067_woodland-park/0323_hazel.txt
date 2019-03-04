@@ -1,0 +1,34 @@
+[panda]
+_id: 323
+birthday: 2016/6/14
+birthplace: 65
+children: 324, 325
+en.name: Hazel
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ヘーゼル
+jp.nicknames: none
+jp.othernames: 榛
+language.order: en, jp
+litter: 425
+location.1: 65, 2016/6/14
+location.2: 67, 2017/3/1
+photo.1: https://www.instagram.com/p/Bq3crgcBpd3/media/?size=m
+photo.1.author: robinlsinner
+photo.1.link: https://www.instagram.com/robinlsinner/
+photo.1.tags: tree
+photo.2: https://www.instagram.com/p/Bek-hwZB3eS/media/?size=m
+photo.2.author: cincinnatizoo
+photo.2.link: https://www.instagram.com/cincinnatizoo/
+photo.2.tags: nose, snow
+photo.3: https://www.instagram.com/p/BpbJTvpH6Rl/media/?size=m
+photo.3.author: j_alex_hicks
+photo.3.link: https://www.instagram.com/j_alex_hicks/
+photo.3.tags: profile
+photo.4: https://www.instagram.com/p/BsBMgniFvuQ/media/?size=m
+photo.4.author: carsontheredpanda
+photo.4.link: https://www.instagram.com/carsontheredpanda/
+photo.4.tags: tail, tongue, tree
+species: 2
+zoo: 67

@@ -1,0 +1,20 @@
+[panda]
+_id: 136
+birthday: 2002/6/20
+birthplace: 17
+children: 133
+death: 2018/2/6
+en.name: Fin-Fin
+en.nicknames: none
+en.oldnames: Tanpopo
+en.othernames: none
+gender: f
+jp.name: フィンフィン
+jp.nicknames: none
+jp.oldnames: タンポポ
+jp.othernames: none
+language.order: jp, en
+location.1: 17, 2002/6/20
+location.2: 15, 2003/2/7
+species: 2
+zoo: 15

@@ -1,0 +1,73 @@
+[panda]
+_id: 78
+birthday: 2011/7/9
+birthplace: 9
+children: 80, 242
+en.name: Hanabi
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ハナビ
+jp.nicknames: none
+jp.othernames: none
+language.order: jp, en
+litter: none
+photo.1: https://www.instagram.com/p/BhB7bzwF_xx/media/?size=m
+photo.1.author: fetorus_mami
+photo.1.link: https://www.instagram.com/fetorus_mami/
+photo.1.tags: profile
+photo.2: https://www.instagram.com/p/Bk7bAUjFZX0/media/?size=m
+photo.2.author: fetorus_mami
+photo.2.link: https://www.instagram.com/fetorus_mami/
+photo.3: https://www.instagram.com/p/BjH6K94luPv/media/?size=m
+photo.3.author: fetorus_mami
+photo.3.link: https://www.instagram.com/fetorus_mami/
+photo.4: https://www.instagram.com/p/BigdJAnldrx/media/?size=m
+photo.4.author: redpanda_nippon_takashi
+photo.4.link: https://www.instagram.com/redpanda_nippon_takashi/
+photo.5: https://www.instagram.com/p/BiOAMwFl38I/media/?size=m
+photo.5.author: ck.chie
+photo.5.link: https://www.instagram.com/ck.chie/
+photo.5.tags: tongue
+photo.6: https://www.instagram.com/p/BnENCZWl7OT/media/?size=m
+photo.6.author: fetorus_mami
+photo.6.link: https://www.instagram.com/fetorus_mami/
+photo.6.tags: bamboo
+photo.7: https://www.instagram.com/p/Bpj5gsTFpTX/media/?size=m
+photo.7.author: l_ma_photos
+photo.7.link: https://www.instagram.com/l_ma_photos/
+photo.7.tags: sleeping
+photo.8: https://www.instagram.com/p/Brh38iVFPi2/media/?size=m
+photo.8.author: fetorus_mami
+photo.8.link: https://www.instagram.com/fetorus_mami/
+photo.8.tags: keeper
+photo.9: https://www.instagram.com/p/Brki8fjlZyV/media/?size=m
+photo.9.author: fetorus_mami
+photo.9.link: https://www.instagram.com/fetorus_mami/
+photo.9.tags: tree
+photo.10: https://www.instagram.com/p/BrrhBH9F-ZX/media/?size=m
+photo.10.author: l_ma_photos
+photo.10.link: https://www.instagram.com/l_ma_photos/
+photo.10.tags: tree
+photo.11: https://www.instagram.com/p/BsaictKF2_H/media/?size=m
+photo.11.author: l_ma_photos
+photo.11.link: https://www.instagram.com/l_ma_photos/
+photo.11.tags: tongue
+photo.12: https://www.instagram.com/p/BsnI_yjF4eg/media/?size=m
+photo.12.author: fetorus_mami
+photo.12.link: https://www.instagram.com/fetorus_mami/
+photo.12.tags: bamboo, standing, tongue
+photo.13: https://www.instagram.com/p/BsqCwe7FBVo/media/?size=m
+photo.13.author: fetorus_mami
+photo.13.link: https://www.instagram.com/fetorus_mami/
+photo.13.tags: autumn
+photo.14: https://www.instagram.com/p/BssSRB6l6aO/media/?size=m
+photo.14.author: fetorus_mami
+photo.14.link: https://www.instagram.com/fetorus_mami/
+photo.14.tags: climb, tail
+photo.15: https://www.instagram.com/p/BtLWl09lCeW/media/?size=m
+photo.15.author: resapan.suki
+photo.15.link: https://www.instagram.com/resapan.suki/
+photo.15.tags: bamboo, paws
+species: 2
+zoo: 9

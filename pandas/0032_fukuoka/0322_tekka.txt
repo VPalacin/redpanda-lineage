@@ -1,0 +1,24 @@
+[panda]
+_id: 322
+birthday: 2007/6/14
+birthplace: 9
+children: unknown
+death: 2015/10/31
+en.name: Tekka
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: テッカ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 314
+photo.1: http://zoo.city.fukuoka.lg.jp/files/NewsDetail/4/NewsDetail_4871_image.jpg
+photo.1.author: fukuoka_zoo
+photo.1.link: http://zoo.city.fukuoka.lg.jp/news/detail/648
+photo.2: http://zoo.city.fukuoka.lg.jp/files/NewsDetail/4/NewsDetail_4872_image.jpg
+photo.2.author: fukuoka_zoo
+photo.2.link: http://zoo.city.fukuoka.lg.jp/news/detail/648
+photo.2.tags: bamboo, profile
+species: 2
+zoo: 32

@@ -1,0 +1,142 @@
+[panda]
+_id: 230
+birthday: 2018/6/2
+birthplace: 34
+children: none
+en.name: Ran-Fa
+en.nicknames: none
+en.othernames: Ranfa, Ranhowa, Lanhua, Lan-Hua
+gender: f
+jp.name: 蘭花
+jp.nicknames: none
+jp.othernames: ランファ
+language.order: jp, en
+litter: none
+photo.1: https://www.instagram.com/p/BkWJxamASuk/media/?size=m
+photo.1.author: tohokusafaripark
+photo.1.link: https://www.instagram.com/tohokusafaripark/
+photo.1.tags: newborn
+photo.2: https://www.instagram.com/p/BoFr6gYlsQK/media/?size=m
+photo.2.author: roko_mm
+photo.2.link: https://www.instagram.com/roko_mm/
+photo.2.tags: baby
+photo.3: https://www.instagram.com/p/BoGoB9LFIJg/media/?size=m
+photo.3.author: monmon_redpanda
+photo.3.link: https://www.instagram.com/monmon_redpanda/
+photo.3.tags: baby
+photo.4: https://www.instagram.com/p/BoGwWKqFiZY/media/?size=m
+photo.4.author: daniele.tokyo
+photo.4.link: https://www.instagram.com/daniele.tokyo/
+photo.4.tags: baby
+photo.5: https://www.instagram.com/p/BnwutQvFHtQ/media/?size=m
+photo.5.author: rie_panda55
+photo.5.link: https://www.instagram.com/rie_panda55/
+photo.5.tags: baby
+photo.6: https://www.instagram.com/p/Bnzb4oGFYNO/media/?size=m
+photo.6.author: rie_panda55
+photo.6.link: https://www.instagram.com/rie_panda55/
+photo.6.tags: baby
+photo.7: https://www.instagram.com/p/Bn6CewLFHmF/media/?size=m
+photo.7.author: rie_panda55
+photo.7.link: https://www.instagram.com/rie_panda55/
+photo.7.tags: baby
+photo.8: https://www.instagram.com/p/BoKr8ZfFZl5/media/?size=m
+photo.8.author: firefoxpanda88
+photo.8.link: https://www.instagram.com/firefoxpanda88/
+photo.8.tags: baby
+photo.9: https://www.instagram.com/p/BoqkWfGFXpD/media/?size=m
+photo.9.author: fetorus_mami
+photo.9.link: https://www.instagram.com/fetorus_mami/
+photo.9.tags: baby
+photo.10: https://www.instagram.com/p/BoqOfmEF0Nx/media/?size=m
+photo.10.author: fetorus_mami
+photo.10.link: https://www.instagram.com/fetorus_mami/
+photo.10.tags: baby, toys
+photo.11: https://www.instagram.com/p/BoqMNv_lmI_/media/?size=m
+photo.11.author: fetorus_mami
+photo.11.link: https://www.instagram.com/fetorus_mami/
+photo.11.tags: baby, paws
+photo.12: https://www.instagram.com/p/Boyh3cKFXuz/media/?size=m
+photo.12.author: daniele.tokyo
+photo.12.link: https://www.instagram.com/daniele.tokyo/
+photo.12.tags: baby, ear
+photo.13: https://www.instagram.com/p/Bo1cQGrFX24/media/?size=m
+photo.13.author: fetorus_mami
+photo.13.link: https://www.instagram.com/fetorus_mami/
+photo.13.tags: baby, paws
+photo.14: https://www.instagram.com/p/Bo1c_XDlxdZ/media/?size=m
+photo.14.author: fetorus_mami
+photo.14.link: https://www.instagram.com/fetorus_mami/
+photo.14.tags: baby, laying down
+photo.15: https://www.instagram.com/p/Bo5oIAAlK1_/media/?size=m
+photo.15.author: tabechum
+photo.15.link: https://www.instagram.com/tabechum/
+photo.15.tags: baby, smile
+photo.16: https://www.instagram.com/p/BpA90q2llqO/media/?size=m
+photo.16.author: tabechum
+photo.16.link: https://www.instagram.com/tabechum/
+photo.16.tags: baby
+photo.17: https://www.instagram.com/p/BpF8TxMFonE/media/?size=m
+photo.17.author: _rifa_p
+photo.17.link: https://www.instagram.com/_rifa_p/
+photo.17.tags: baby, ear
+photo.18: https://www.instagram.com/p/BpMHF08lkhp/media/?size=m
+photo.18.author: miis_98
+photo.18.link: https://www.instagram.com/miis_98/
+photo.18.tags: baby
+photo.19: https://www.instagram.com/p/BpVbGe5FIWE/media/?size=m
+photo.19.author: _rifa_p
+photo.19.link: https://www.instagram.com/_rifa_p/
+photo.19.tags: bamboo
+photo.20: https://www.instagram.com/p/Bpa77XFl9Kx/media/?size=m
+photo.20.author: tabechum
+photo.20.link: https://www.instagram.com/tabechum/
+photo.20.tags: keeper
+photo.21: https://www.instagram.com/p/Bpi3qn6F5pF/media/?size=m
+photo.21.author: craig_craig_craig
+photo.21.link: https://www.instagram.com/craig_craig_craig/
+photo.22: https://www.instagram.com/p/BpnhTIdFzLO/media/?size=m
+photo.22.author: fetorus_mami
+photo.22.link: https://www.instagram.com/fetorus_mami/
+photo.22.tags: keeper
+photo.23: https://www.instagram.com/p/Bp4YXjBFUY1/media/?size=m
+photo.23.author: redpan22
+photo.23.link: https://www.instagram.com/redpan22/
+photo.24: https://www.instagram.com/p/BpgHUdvFc0j/media/?size=m
+photo.24.author: wonderfulzooken
+photo.24.link: https://www.instagram.com/wonderfulzooken/
+photo.25: https://www.instagram.com/p/BqYY9AnFCv2/media/?size=m
+photo.25.author: _rifa_p
+photo.25.link: https://www.instagram.com/_rifa_p/
+photo.25.tags: baby
+photo.26: https://www.instagram.com/p/BqdqgJqFKPF/media/?size=m
+photo.26.author: wumpwoast
+photo.26.link: https://www.instagram.com/wumpwoast/
+photo.27: https://www.instagram.com/p/BquWaR6F1hC/media/?size=m
+photo.27.author: rie_panda55
+photo.27.link: https://www.instagram.com/rie_panda55/
+photo.27.tags: paws
+photo.28: https://www.instagram.com/p/Bq8cZE1FYbU/media/?size=m
+photo.28.author: fetorus_mami
+photo.28.link: https://www.instagram.com/fetorus_mami/
+photo.29: https://www.instagram.com/p/BsIEelTlScg/media/?size=m
+photo.29.author: _rifa_p
+photo.29.link: https://www.instagram.com/_rifa_p/
+photo.29.tags: baby, ear
+photo.30: https://www.instagram.com/p/BsXzeXHFexP/media/?size=m
+photo.30.author: daniele.tokyo
+photo.30.link: https://www.instagram.com/daniele.tokyo/
+photo.30.tags: paws, smile, snow, standing, tail
+photo.31: https://www.instagram.com/p/Bsfh3EaFRHd/media/?size=m
+photo.31.author: daniele.tokyo
+photo.31.link: https://www.instagram.com/daniele.tokyo/
+photo.31.tags: bamboo, profile, smile
+photo.32: https://www.instagram.com/p/BuFwUKtl0V7/media/?size=m
+photo.32.author: codenameodk
+photo.32.link: https://www.instagram.com/codenameodk/
+photo.32.tags: tail
+species: 2
+video.1: https://youtu.be/Tj1Vraltvq8
+video.1.author: iwatatube
+video.1.link: https://www.youtube.com/user/iwatatube
+zoo: 34

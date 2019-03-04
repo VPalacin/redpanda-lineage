@@ -1,0 +1,83 @@
+[panda]
+_id: 76
+birthday: 2002/7/17
+birthplace: 6
+children: 299, 357, 27, 143, 78, 153, 347
+en.name: Min-Min
+en.nicknames: none
+en.othernames: Minmin
+gender: m
+jp.name: 明明
+jp.nicknames: none
+jp.othernames: ミンミン
+language.order: jp, en
+litter: 328
+location.1: 6, 2002/7/17
+location.2: 33, 2004/5/13
+location.3: 9, 2009/2/10
+photo.1: https://www.instagram.com/p/BhordilFctr/media/?size=m
+photo.1.author: fetorus_mami
+photo.1.link: https://www.instagram.com/fetorus_mami/
+photo.1.tags: lips, profile
+photo.2: https://www.instagram.com/p/BkFUYhkFuRD/media/?size=m
+photo.2.author: hanamaru_redpanda
+photo.2.link: https://www.instagram.com/hanamaru_redpanda/
+photo.3: https://www.instagram.com/p/BhOatdIhLSA/media/?size=m
+photo.3.author: tsumechmosu
+photo.3.link: https://www.instagram.com/tsumechmosu/
+photo.4: https://www.instagram.com/p/BlVXf5SFR12/media/?size=m
+photo.4.author: fetorus_mami
+photo.4.link: https://www.instagram.com/fetorus_mami/
+photo.5: https://www.instagram.com/p/BkZXwEvluhd/media/?size=m
+photo.5.author: fetorus_mami
+photo.5.link: https://www.instagram.com/fetorus_mami/
+photo.6: https://www.instagram.com/p/BnyJA5qFyDI/media/?size=m
+photo.6.author: fetorus_mami
+photo.6.link: https://www.instagram.com/fetorus_mami/
+photo.6.tags: tongue
+photo.7: https://www.instagram.com/p/BoJ8qcal41P/media/?size=m
+photo.7.author: l_ma_photos
+photo.7.link: https://www.instagram.com/l_ma_photos/
+photo.7.tags: wink
+photo.8: https://www.instagram.com/p/BpLHGcuFsqz/media/?size=m
+photo.8.author: rie_panda55
+photo.8.link: https://www.instagram.com/rie_panda55/
+photo.9: https://www.instagram.com/p/Bql9VuaFtdz/media/?size=m
+photo.9.author: kipekaila
+photo.9.link: https://www.instagram.com/kipekaila/
+photo.9.tags: lips
+photo.10: https://www.instagram.com/p/BrNOxQMl8L4/media/?size=m
+photo.10.author: monmon_redpanda
+photo.10.link: https://www.instagram.com/monmon_redpanda/
+photo.11: https://www.instagram.com/p/Brfef47FILb/media/?size=m
+photo.11.author: fetorus_mami
+photo.11.link: https://www.instagram.com/fetorus_mami/
+photo.11.tags: smile
+photo.12: https://www.instagram.com/p/BrkjQbDlkIk/media/?size=m
+photo.12.author: fetorus_mami
+photo.12.link: https://www.instagram.com/fetorus_mami/
+photo.13: https://www.instagram.com/p/Br2hovClad1/media/?size=m
+photo.13.author: l_ma_photos
+photo.13.link: https://www.instagram.com/l_ma_photos/
+photo.13.tags: grooming, tail
+photo.14: https://www.instagram.com/p/BsVkb6mFkVJ/media/?size=m
+photo.14.author: ifumoto88
+photo.14.link: https://www.instagram.com/ifumoto88/
+photo.15: https://www.instagram.com/p/BskcaiIFhZ1/media/?size=m
+photo.15.author: fetorus_mami
+photo.15.link: https://www.instagram.com/fetorus_mami/
+photo.15.tags: sleeping
+photo.16: https://www.instagram.com/p/Bs0d7MDFdrQ/media/?size=m
+photo.16.author: fetorus_mami
+photo.16.link: https://www.instagram.com/fetorus_mami/
+photo.16.tags: ear
+photo.17: https://www.instagram.com/p/BtK3N1WFbHa/media/?size=m
+photo.17.author: l_ma_photos
+photo.17.link: https://www.instagram.com/l_ma_photos/
+photo.17.tags: grooming, laying down, mofumofu, paws, white face
+photo.18: https://www.instagram.com/p/BuQXOzKFGv1/media/?size=m
+photo.18.author: yuka0714_0307
+photo.18.link: https://www.instagram.com/yuka0714_0307/
+photo.18.tags: paws, smile
+species: 2
+zoo: 9

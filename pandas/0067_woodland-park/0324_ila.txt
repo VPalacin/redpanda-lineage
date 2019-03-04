@@ -1,0 +1,40 @@
+[panda]
+_id: 324
+birthday: 2018/6/21
+birthplace: 67
+children: none
+en.name: Ila
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: イラ
+jp.nicknames: none
+jp.oldnames: none
+jp.othernames: none
+language.order: en, jp
+litter: 325
+photo.1: https://www.instagram.com/p/BqsNO_pF-Jt/media/?size=m
+photo.1.author: carsontheredpanda
+photo.1.link: https://www.instagram.com/carsontheredpanda/
+photo.1.tags: hammock
+photo.2: https://www.instagram.com/p/BsdZEeHFmkG/media/?size=m
+photo.2.author: carsontheredpanda
+photo.2.link: https://www.instagram.com/carsontheredpanda/
+photo.2.tags: bamboo, profile, smile, tree
+photo.3: https://www.instagram.com/p/Bs3YjsYlxv1/media/?size=m
+photo.3.author: carsontheredpanda
+photo.3.link: https://www.instagram.com/carsontheredpanda/
+photo.3.tags: tree
+photo.4: https://www.instagram.com/p/BtL0_mKlsnn/media/?size=m
+photo.4.author: carsontheredpanda
+photo.4.link: https://www.instagram.com/carsontheredpanda/
+photo.4.tags: paws, tongue, tree
+photo.5: https://www.instagram.com/p/BtTm7ZMlOz7/media/?size=m
+photo.5.author: carsontheredpanda
+photo.5.link: https://www.instagram.com/carsontheredpanda/
+photo.5.tags: paws, tongue, tree
+photo.6: https://www.instagram.com/p/BtnDGiogyqn/media/?size=m
+photo.6.author: rootbeer_popsicle_ 
+photo.6.link: https://www.instagram.com/rootbeer_popsicle_/
+species: 2
+zoo: 67

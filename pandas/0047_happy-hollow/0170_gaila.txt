@@ -1,0 +1,59 @@
+[panda]
+_id: 170
+birthday: 2011/6/5
+birthplace: 114
+children: unknown
+en.name: Gaila
+en.nicknames: LadyBoss
+en.othernames: Gailabear
+gender: f
+jp.name: ガイラ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 507
+location.1: 114, 2011/6/5
+location.2: 115, 2012/8/15
+location.3: 47, 2016/1/13
+photo.1: https://www.instagram.com/p/BSSOWqIBrqV/media/?size=m
+photo.1.author: zookeeper_aj
+photo.1.link: https://www.instagram.com/zookeeper_aj/
+photo.1.tags: techitechi
+photo.2: https://www.instagram.com/p/BaAauORg6ti/media/?size=m
+photo.2.author: wumpwoast
+photo.2.link: https://www.instagram.com/wumpwoast/
+photo.3: https://www.instagram.com/p/Bk1cgUilTzY/media/?size=m
+photo.3.author: wumpwoast
+photo.3.link: https://www.instagram.com/wumpwoast/
+photo.3.tags: laying down
+photo.4: https://www.instagram.com/p/BU5NCkCAldF/media/?size=m
+photo.4.author: wumpwoast
+photo.4.link: https://www.instagram.com/wumpwoast/
+photo.5: https://www.instagram.com/p/BiZ8xxclfy9/media/?size=m
+photo.5.author: wumpwoast
+photo.5.link: https://www.instagram.com/wumpwoast/
+photo.5.tags: pull-up
+photo.6: https://www.instagram.com/p/Bjz40EFHH-Q/media/?size=m
+photo.6.author: zookeeper_aj
+photo.6.link: https://www.instagram.com/zookeeper_aj/
+photo.7: https://www.instagram.com/p/BmUrNnyntyO/media/?size=m
+photo.7.author: zookeeper_aj
+photo.7.link: https://www.instagram.com/zookeeper_aj/
+photo.7.tags: profile
+photo.8: https://www.instagram.com/p/BnxSyIbHky1/media/?size=m
+photo.8.author: zookeeper_aj
+photo.8.link: https://www.instagram.com/zookeeper_aj/
+photo.8.tags: paws
+photo.9: https://www.instagram.com/p/Bqd7qoHBLKx/media/?size=m
+photo.9.author: zookeeper_aj
+photo.9.link: https://www.instagram.com/zookeeper_aj/
+photo.9.tags: lunch time
+photo.10: https://www.instagram.com/p/BYEICkzgYNm/media/?size=m
+photo.10.author: wumpwoast
+photo.10.link: https://www.instagram.com/wumpwoast/
+photo.11: https://www.instagram.com/p/BD31zwVPKMY/media/?size=m
+photo.11.author: djjohnbeaver
+photo.11.link: https://www.instagram.com/djjohnbeaver/
+photo.11.tags: air tasting, bamboo, tongue
+species: 1
+zoo: 47

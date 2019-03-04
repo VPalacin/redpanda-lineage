@@ -1,0 +1,20 @@
+[panda]
+_id: 400
+birthday: 2011/6/13
+birthplace: 76
+children: 420, 421, 416, 417
+en.name: Phoenix
+en.nicknames: none
+en.othernames: none
+gender: m
+jp.name: フェニックス
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 448
+photo.1: https://www.instagram.com/p/BAF9jHiykCl/media/?size=m
+photo.1.author: worldthathesees
+photo.1.link: https://www.instagram.com/worldthathesees/
+photo.1.tags: profile
+species: 2
+zoo: 87

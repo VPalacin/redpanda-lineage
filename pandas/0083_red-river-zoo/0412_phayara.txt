@@ -1,0 +1,22 @@
+[panda]
+_id: 412
+birthday: 2014/7/3
+birthplace: 90
+children: unknown
+en.name: Phayara
+en.nicknames: none
+en.othernames: Faye
+gender: f
+jp.name: ファヤラ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: none
+location.1: 90, 2014/7/3
+location.2: 83, 2015/4/16
+photo.1: https://www.instagram.com/p/5ZhlmHSkF8/media/?size=m
+photo.1.author: worldthathesees
+photo.1.link: https://www.instagram.com/worldthathesees/
+photo.1.tags: bamboo, profile, smile, tongue
+species: 2
+zoo: 83
